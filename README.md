@@ -1,2 +1,2 @@
-#MeRN stack Homework
+#MERN stack Homework
 Strongest anime character
